@@ -9,7 +9,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 Öncelikle projeyi clonelayın.
 
 ```bash
-git clone https://github.com/https://github.com/tuucee/kodluyoruzilkrepo.git```
+git clone https://github.com/https://github.com/tuucee/kodluyoruzilkrepo.git
+
 
 ## Usage
 
