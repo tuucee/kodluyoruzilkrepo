@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ## Installation
 
-Öncelikle projeyi klonlayın.
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/https://github.com/tuucee/kodluyoruzilkrepo.git```
