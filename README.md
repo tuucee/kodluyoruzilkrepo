@@ -10,7 +10,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ```bash
 git clone https://github.com/https://github.com/tuucee/kodluyoruzilkrepo.git
-
+```
 
 ## Usage
 
